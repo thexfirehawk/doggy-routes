@@ -1,2 +1,3 @@
 # doggy-routes
-Manage dog walking routes
+The Flutter application is a powerful tool for dog owners who want to manage their dog walking routes efficiently. 
+Built with FlutterFire, a popular Firebase plugin for Flutter, and integrated with Google Maps, this app offers seamless CRUD (Create, Read, Update, Delete) operations on dog walking routes. Users can easily create new routes by marking waypoints on the map, set the desired distance and duration, and save them for future reference. The app also allows users to view and update existing routes, providing flexibility to modify routes as needed. Additionally, users can delete routes that are no longer needed. With its intuitive user interface and smooth integration with Google Maps, this Flutter application simplifies the process of managing dog walking routes, making it a valuable tool for dog owners on the go.
